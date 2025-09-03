@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack  
 **Backend:** Ruby on Rails, Node.js
-**Frontend:** React, Next.js, TailwindCSS  
+**Frontend:** ReactJS, CSS, HTML, Bootstrap
 **Databases:** PostgreSQL, MySQL  
 **Others:** Git, Docker, Postmark, REST APIs  
 
